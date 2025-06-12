@@ -1,0 +1,19 @@
+{
+	"cards": [
+		{"style": 2, "group": "01", "name": "WEB_1", "text": "WEB_1"},
+		{"style": 2, "group": "01", "name": "WEB_2", "text": "WEB_2"},
+		{"style": 2, "group": "01", "name": "WEB_3", "text": "WEB_3"},
+		{"style": 2, "group": "02", "name": "WEB_4", "text": "WEB_4"},
+		{"style": 2, "group": "02", "name": "WEB_5", "text": "WEB_5"},
+		{"style": 2, "group": "02", "name": "WEB_6", "text": "WEB_6"},
+		{"style": 2, "group": "03", "name": "WEB_7", "text": "WEB_7"},
+		{"style": 2, "group": "03", "name": "WEB_8", "text": "WEB_8"},
+		{"style": 2, "group": "03", "name": "WEB_9", "text": "WEB_9"},
+		{"style": 2, "group": "04", "name": "WEB_10", "text": "WEB_10"},
+		{"style": 2, "group": "04", "name": "WEB_11", "text": "WEB_11"},
+		{"style": 2, "group": "04", "name": "WEB_12", "text": "WEB_12"},
+		{"style": 2, "group": "05", "name": "WEB_13", "text": "WEB_13"},
+		{"style": 2, "group": "05", "name": "WEB_14", "text": "WEB_14"},
+		{"style": 2, "group": "05", "name": "WEB_15", "text": "WEB_15"}
+    ]
+}
