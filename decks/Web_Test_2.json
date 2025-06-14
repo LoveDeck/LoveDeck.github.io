@@ -1,20 +1,20 @@
 {
 	"cards": [
-		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_1", "text": "WEB_TEST_2_1"},
-		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_2", "text": "WEB_TEST_2_2"},
-		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_3", "text": "WEB_TEST_2_3"},
-		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_4", "text": "WEB_TEST_2_4"},
-		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_5", "text": "WEB_TEST_2_5"},
-		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_6", "text": "WEB_TEST_2_6"},
-		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_7", "text": "WEB_TEST_2_7"},
-		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_8", "text": "WEB_TEST_2_8"},
-		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_9", "text": "WEB_TEST_2_9"},
-		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_10", "text": "WEB_TEST_2_10"},
-		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_11", "text": "WEB_TEST_2_11"},
-		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_12", "text": "WEB_TEST_2_12"},
-		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_13", "text": "WEB_TEST_2_13"},
-		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_14", "text": "WEB_TEST_2_14"},
-		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_15", "text": "WEB_TEST_2_15"}
+		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_1", "text": "WEB_TEXT_2_1"},
+		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_2", "text": "WEB_TEXT_2_2"},
+		{"style": "web_test_2_style", "group": "01", "name": "WEB_NAME_2_3", "text": "WEB_TEXT_2_3"},
+		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_4", "text": "WEB_TEXT_2_4"},
+		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_5", "text": "WEB_TEXT_2_5"},
+		{"style": "web_test_2_style", "group": "02", "name": "WEB_NAME_2_6", "text": "WEB_TEXT_2_6"},
+		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_7", "text": "WEB_TEXT_2_7"},
+		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_8", "text": "WEB_TEXT_2_8"},
+		{"style": "web_test_2_style", "group": "03", "name": "WEB_NAME_2_9", "text": "WEB_TEXT_2_9"},
+		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_10", "text": "WEB_TEXT_2_10"},
+		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_11", "text": "WEB_TEXT_2_11"},
+		{"style": "web_test_2_style", "group": "04", "name": "WEB_NAME_2_12", "text": "WEB_TEXT_2_12"},
+		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_13", "text": "WEB_TEXT_2_13"},
+		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_14", "text": "WEB_TEXT_2_14"},
+		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_15", "text": "WEB_TEXT_2_15"}
     ],
 	"styles": {
 		"web_test_2_style": {"texture_name": "Card_04.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 45, "text_size": 26, "name_color": "#101010", "text_color": "#0d0d0d"}
