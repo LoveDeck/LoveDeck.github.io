@@ -88,7 +88,7 @@
             "text_align": "left",
             "text_color": "#330b0a",
             "text_size": 26.0,
-            "texture_name": "Card_01.png", "name_style": "", "text_style": ""
+            "texture_name": "Card_01.png", "name_style": "", "text_style": "", "bg_color": "#e3dbcb"
         },
         "web_test_1_style_2": {
             "after_name": "\n\n\n",
@@ -100,7 +100,7 @@
             "text_align": "left",
             "text_color": "#82b1bf",
             "text_size": 26.0,
-            "texture_name": "Card_02.png", "name_style": "", "text_style": ""
+            "texture_name": "Card_02.png", "name_style": "", "text_style": "", "bg_color": "#222c38"
         }
     },
     "translations": {
