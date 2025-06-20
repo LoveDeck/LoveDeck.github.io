@@ -17,7 +17,7 @@
 		{"style": "web_test_2_style", "group": "05", "name": "WEB_NAME_2_15", "text": "WEB_TEXT_2_15"}
     ],
 	"styles": {
-		"web_test_2_style": {"texture_name": "Card_04.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 45, "text_size": 26, "name_color": "#101010", "text_color": "#0d0d0d"}
+		"web_test_2_style": {"texture_name": "Card_04.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 45, "text_size": 26, "name_style": "", "text_style": "", "name_color": "#101010", "text_color": "#0d0d0d"}
 	},
     "languages": ["en", "ru", "de", "es", "fr", "fi", "it", "ja", "ko", "pl", "pt-br", "zh-cn"],
     "translations": {

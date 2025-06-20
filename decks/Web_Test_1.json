@@ -76,11 +76,33 @@
             "text": "WEB_TEXT_15"
         }
     ],
-	"styles": {
-		"web_test_1_style_1": {"texture_name": "Card_01.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 45, "text_size": 26, "name_color": "#440F0D", "text_color": "#330b0a"},
-		"web_test_1_style_2": {"texture_name": "Card_02.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 45, "text_size": 26, "name_color": "#65ABC0", "text_color": "#82b1bf"}
-	},
     "languages": ["en", "ru", "de", "es", "fr", "fi", "it", "ja", "ko", "pl", "pt-br", "zh-cn"],
+    "styles": {
+        "web_test_1_style_1": {
+            "after_name": "\n\n\n",
+            "before_name": "\n\n\n",
+            "line_separation": 10.0,
+            "name_align": "center",
+            "name_color": "#440F0D",
+            "name_size": 45.0,
+            "text_align": "left",
+            "text_color": "#330b0a",
+            "text_size": 26.0,
+            "texture_name": "Card_01.png", "name_style": "", "text_style": ""
+        },
+        "web_test_1_style_2": {
+            "after_name": "\n\n\n",
+            "before_name": "\n\n\n",
+            "line_separation": 10.0,
+            "name_align": "center",
+            "name_color": "#65ABC0",
+            "name_size": 45.0,
+            "text_align": "left",
+            "text_color": "#82b1bf",
+            "text_size": 26.0,
+            "texture_name": "Card_02.png", "name_style": "", "text_style": ""
+        }
+    },
     "translations": {
         "WEB_NAME_1": ["Web Card 1", "Веб Карта 1", "Web Karte 1", "Tarjeta Web 1", "Carte Web 1", "Web Kortti 1", "Carta Web 1", "ウェブカード 1", "웹 카드 1", "Karta Web 1", "Cartão Web 1", "网页卡片 1"],
         "WEB_NAME_10": ["Web Card 10", "Веб Карта 10", "Web Karte 10", "Tarjeta Web 10", "Carte Web 10", "Web Kortti 10", "Carta Web 10", "ウェブカード 10", "웹 카드 10", "Karta Web 10", "Cartão Web 10", "网页卡片 10"],
