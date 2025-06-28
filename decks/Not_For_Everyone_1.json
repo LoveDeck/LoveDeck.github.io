@@ -94,9 +94,9 @@
   ],
 	"styles": {
 		"NFE1_0": {"texture_name": "Card_00.png", "text_align": "left", "name_align": "left", "before_name": "\n", "after_name": "\n\n", "line_separation": 5, "name_size": 45, "text_size": 28, "name_style": "b", "text_style": "b", "name_color": "#f4f4f4", "text_color": "#e9e9e9", "bg_color": "#262626"},
-		"NFE1_1": {"texture_name": "Card_07.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 30, "name_style": "b", "text_style": "b", "name_color": "#a5131e", "text_color": "#131210", "bg_color": "#e4e4e4"},
-		"NFE1_2": {"texture_name": "Card_08.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 30, "name_style": "b", "text_style": "b", "name_color": "#c92d1e", "text_color": "#1e1808", "bg_color": "#e7cb10"},
-		"NFE1_3": {"texture_name": "Card_06.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 30, "name_style": "b", "text_style": "b", "name_color": "#f34858", "text_color": "#e9e9e9", "bg_color": "#262626"}
+		"NFE1_1": {"texture_name": "Card_07.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 34, "name_style": "b", "text_style": "b", "name_color": "#a5131e", "text_color": "#131210", "bg_color": "#e4e4e4"},
+		"NFE1_2": {"texture_name": "Card_08.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 34, "name_style": "b", "text_style": "b", "name_color": "#c92d1e", "text_color": "#1e1808", "bg_color": "#e7cb10"},
+		"NFE1_3": {"texture_name": "Card_06.png", "text_align": "left", "name_align": "right", "before_name": "  ", "after_name": "\n\n", "line_separation": 15, "name_size": 45, "text_size": 34, "name_style": "b", "text_style": "b", "name_color": "#f34858", "text_color": "#e9e9e9", "bg_color": "#262626"}
 	},
     "languages": ["en", "ru", "de", "es", "fr", "fi", "it", "ja", "ko", "pl", "pt-br", "zh-cn"],
     "translations": {
