@@ -52,60 +52,12 @@
                         <li><a href="https://discord.gg/JmsBsBzdHV" class="icon brands style2 fa-discord"><span class="label">Discord</span></a></li>
                         <li><a href="https://t.me/ZBEP_PortHUB" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>
                     </ul>
-                    <b>Donate ETH / USDT / USDC:</b><br>
-                    <a href="https://etherscan.io/address/0x7b9296c84553f2fedc8e7e299f5C66241550588b">0x7b9296c84553f2fedc8e7e299f5C66241550588b</a>
                 </section>
             </div>
         </footer>
     </div>
 
-    <!-- In HTML Scripts -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const cardLinks = document.querySelectorAll('.tiles article a');
     
-    cardLinks.forEach(link => {
-        link.addEventListener('click', function(e) {
-            e.preventDefault();
-            
-            const url = this.href;
-            const card = this.querySelector('.card');
-            
-            // Создаем элемент с иконкой копирования
-            const indicator = document.createElement('div');
-            indicator.className = 'copy-indicator';
-            indicator.innerHTML = '<svg viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>';
-            card.appendChild(indicator);
-            
-            // Копируем в буфер обмена
-            navigator.clipboard.writeText(url).then(() => {
-                setTimeout(() => indicator.classList.add('show'), 10);
-                
-                setTimeout(() => {
-                    indicator.classList.remove('show');
-                    setTimeout(() => card.removeChild(indicator), 300);
-                }, 1200);
-            }).catch(err => {
-                // Fallback
-                const textArea = document.createElement('textarea');
-                textArea.value = url;
-                textArea.style.position = 'fixed';
-                textArea.style.opacity = '0';
-                document.body.appendChild(textArea);
-                textArea.select();
-                document.execCommand('copy');
-                document.body.removeChild(textArea);
-                
-                setTimeout(() => indicator.classList.add('show'), 10);
-                setTimeout(() => {
-                    indicator.classList.remove('show');
-                    setTimeout(() => card.removeChild(indicator), 300);
-                }, 1200);
-            });
-        });
-    });
-});
-</script>
 
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>
