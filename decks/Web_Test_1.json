@@ -47,38 +47,73 @@
         }
     },
     "translations": {
-		"KEY_TEST1_GROUP": ["", "Группа 1", "", "", "", "", "", "", "", "", "", ""],
-		"KEY_TEST1_TAG": ["", "Тег 1", "", "", "", "", "", "", "", "", "", ""],
-		"KEY_TEST1_DESCRIPTION": ["", "Первая тестовая колода с сайта.\n\nXX карт. 18+", "", "", "", "", "", "", "", "", "", ""],
-        "WEB_TEST1_NAME_01": ["Web Card 1", "Веб Карта 1", "Web Karte 1", "Tarjeta Web 1", "Carte Web 1", "Web Kortti 1", "Carta Web 1", "ウェブカード 1", "웹 카드 1", "Karta Web 1", "Cartão Web 1", "网页卡片 1"],
-        "WEB_TEST1_NAME_02": ["Web Card 2", "Веб Карта 2", "Web Karte 2", "Tarjeta Web 2", "Carte Web 2", "Web Kortti 2", "Carta Web 2", "ウェブカード 2", "웹 카드 2", "Karta Web 2", "Cartão Web 2", "网页卡片 2"],
-        "WEB_TEST1_NAME_03": ["Web Card 3", "Веб Карта 3", "Web Karte 3", "Tarjeta Web 3", "Carte Web 3", "Web Kortti 3", "Carta Web 3", "ウェブカード 3", "웹 카드 3", "Karta Web 3", "Cartão Web 3", "网页卡片 3"],
-        "WEB_TEST1_NAME_04": ["Web Card 4", "Веб Карта 4", "Web Karte 4", "Tarjeta Web 4", "Carte Web 4", "Web Kortti 4", "Carta Web 4", "ウェブカード 4", "웹 카드 4", "Karta Web 4", "Cartão Web 4", "网页卡片 4"],
-        "WEB_TEST1_NAME_05": ["Web Card 5", "Веб Карта 5", "Web Karte 5", "Tarjeta Web 5", "Carte Web 5", "Web Kortti 5", "Carta Web 5", "ウェブカード 5", "웹 카드 5", "Karta Web 5", "Cartão Web 5", "网页卡片 5"],
-        "WEB_TEST1_NAME_06": ["Web Card 6", "Веб Карта 6", "Web Karte 6", "Tarjeta Web 6", "Carte Web 6", "Web Kortti 6", "Carta Web 6", "ウェブカード 6", "웹 카드 6", "Karta Web 6", "Cartão Web 6", "网页卡片 6"],
-        "WEB_TEST1_NAME_07": ["Web Card 7", "Веб Карта 7", "Web Karte 7", "Tarjeta Web 7", "Carte Web 7", "Web Kortti 7", "Carta Web 7", "ウェブカード 7", "웹 카드 7", "Karta Web 7", "Cartão Web 7", "网页卡片 7"],
-        "WEB_TEST1_NAME_08": ["Web Card 8", "Веб Карта 8", "Web Karte 8", "Tarjeta Web 8", "Carte Web 8", "Web Kortti 8", "Carta Web 8", "ウェブカード 8", "웹 카드 8", "Karta Web 8", "Cartão Web 8", "网页卡片 8"],
-        "WEB_TEST1_NAME_09": ["Web Card 9", "Веб Карта 9", "Web Karte 9", "Tarjeta Web 9", "Carte Web 9", "Web Kortti 9", "Carta Web 9", "ウェブカード 9", "웹 카드 9", "Karta Web 9", "Cartão Web 9", "网页卡片 9"],
-        "WEB_TEST1_NAME_10": ["Web Card 10", "Веб Карта 10", "Web Karte 10", "Tarjeta Web 10", "Carte Web 10", "Web Kortti 10", "Carta Web 10", "ウェブカード 10", "웹 카드 10", "Karta Web 10", "Cartão Web 10", "网页卡片 10"],
-        "WEB_TEST1_NAME_11": ["Web Card 11", "Веб Карта 11", "Web Karte 11", "Tarjeta Web 11", "Carte Web 11", "Web Kortti 11", "Carta Web 11", "ウェブカード 11", "웹 카드 11", "Karta Web 11", "Cartão Web 11", "网页卡片 11"],
-        "WEB_TEST1_NAME_12": ["Web Card 12", "Веб Карта 12", "Web Karte 12", "Tarjeta Web 12", "Carte Web 12", "Web Kortti 12", "Carta Web 12", "ウェブカード 12", "웹 카드 12", "Karta Web 12", "Cartão Web 12", "网页卡片 12"],
-        "WEB_TEST1_NAME_13": ["Web Card 13", "Веб Карта 13", "Web Karte 13", "Tarjeta Web 13", "Carte Web 13", "Web Kortti 13", "Carta Web 13", "ウェブカード 13", "웹 카드 13", "Karta Web 13", "Cartão Web 13", "网页卡片 13"],
-        "WEB_TEST1_NAME_14": ["Web Card 14", "Веб Карта 14", "Web Karte 14", "Tarjeta Web 14", "Carte Web 14", "Web Kortti 14", "Carta Web 14", "ウェブカード 14", "웹 카드 14", "Karta Web 14", "Cartão Web 14", "网页卡片 14"],
-        "WEB_TEST1_NAME_15": ["Web Card 15", "Веб Карта 15", "Web Karte 15", "Tarjeta Web 15", "Carte Web 15", "Web Kortti 15", "Carta Web 15", "ウェブカード 15", "웹 카드 15", "Karta Web 15", "Cartão Web 15", "网页卡片 15"],
-        "WEB_TEST1_TEXT_01": ["Description for web card 1", "Описание для веб карты 1", "Beschreibung für Web-Karte 1", "Descripción para tarjeta web 1", "Description pour carte web 1", "Kuvaus web-kortille 1", "Descrizione per carta web 1", "ウェブカード1の説明", "웹 카드 1 설명", "Opis karty web 1", "Descrição do cartão web 1", "网页卡片1的描述"],
-        "WEB_TEST1_TEXT_02": ["Description for web card 2", "Описание для веб карты 2", "Beschreibung für Web-Karte 2", "Descripción para tarjeta web 2", "Description pour carte web 2", "Kuvaus web-kortille 2", "Descrizione per carta web 2", "ウェブカード2の説明", "웹 카드 2 설명", "Opis karty web 2", "Descrição do cartão web 2", "网页卡片2的描述"],
-        "WEB_TEST1_TEXT_03": ["Description for web card 3", "Описание для веб карты 3", "Beschreibung für Web-Karte 3", "Descripción para tarjeta web 3", "Description pour carte web 3", "Kuvaus web-kortille 3", "Descrizione per carta web 3", "ウェブカード3の説明", "웹 카드 3 설명", "Opis karty web 3", "Descrição do cartão web 3", "网页卡片3的描述"],
-        "WEB_TEST1_TEXT_04": ["Description for web card 4", "Описание для веб карты 4", "Beschreibung für Web-Karte 4", "Descripción para tarjeta web 4", "Description pour carte web 4", "Kuvaus web-kortille 4", "Descrizione per carta web 4", "ウェブカード4の説明", "웹 카드 4 설명", "Opis karty web 4", "Descrição do cartão web 4", "网页卡片4的描述"],
-        "WEB_TEST1_TEXT_05": ["Description for web card 5", "Описание для веб карты 5", "Beschreibung für Web-Karte 5", "Descripción para tarjeta web 5", "Description pour carte web 5", "Kuvaus web-kortille 5", "Descrizione per carta web 5", "ウェブカード5の説明", "웹 카드 5 설명", "Opis karty web 5", "Descrição do cartão web 5", "网页卡片5的描述"],
-        "WEB_TEST1_TEXT_06": ["Description for web card 6", "Описание для веб карты 6", "Beschreibung für Web-Karte 6", "Descripción para tarjeta web 6", "Description pour carte web 6", "Kuvaus web-kortille 6", "Descrizione per carta web 6", "ウェブカード6の説明", "웹 카드 6 설명", "Opis karty web 6", "Descrição do cartão web 6", "网页卡片6的描述"],
-        "WEB_TEST1_TEXT_07": ["Description for web card 7", "Описание для веб карты 7", "Beschreibung für Web-Karte 7", "Descripción para tarjeta web 7", "Description pour carte web 7", "Kuvaus web-kortille 7", "Descrizione per carta web 7", "ウェブカード7の説明", "웹 카드 7 설명", "Opis karty web 7", "Descrição do cartão web 7", "网页卡片7的描述"],
-        "WEB_TEST1_TEXT_08": ["Description for web card 8", "Описание для веб карты 8", "Beschreibung für Web-Karte 8", "Descripción para tarjeta web 8", "Description pour carte web 8", "Kuvaus web-kortille 8", "Descrizione per carta web 8", "ウェブカード8の説明", "웹 카드 8 설명", "Opis karty web 8", "Descrição do cartão web 8", "网页卡片8的描述"],
-        "WEB_TEST1_TEXT_09": ["Description for web card 9", "Описание для веб карты 9", "Beschreibung für Web-Karte 9", "Descripción para tarjeta web 9", "Description pour carte web 9", "Kuvaus web-kortille 9", "Descrizione per carta web 9", "ウェブカード9の説明", "웹 카드 9 설명", "Opis karty web 9", "Descrição do cartão web 9", "网页卡片9的描述"],
-        "WEB_TEST1_TEXT_10": ["Description for web card 10", "Описание для веб карты 10", "Beschreibung für Web-Karte 10", "Descripción para tarjeta web 10", "Description pour carte web 10", "Kuvaus web-kortille 10", "Descrizione per carta web 10", "ウェブカード10の説明", "웹 카드 10 설명", "Opis karty web 10", "Descrição do cartão web 10", "网页卡片10的描述"],
-        "WEB_TEST1_TEXT_11": ["Description for web card 11", "Описание для веб карты 11", "Beschreibung für Web-Karte 11", "Descripción para tarjeta web 11", "Description pour carte web 11", "Kuvaus web-kortille 11", "Descrizione per carta web 11", "ウェブカード11の説明", "웹 카드 11 설명", "Opis karty web 11", "Descrição do cartão web 11", "网页卡片11的描述"],
-        "WEB_TEST1_TEXT_12": ["Description for web card 12", "Описание для веб карты 12", "Beschreibung für Web-Karte 12", "Descripción para tarjeta web 12", "Description pour carte web 12", "Kuvaus web-kortille 12", "Descrizione per carta web 12", "ウェブカード12の説明", "웹 카드 12 설명", "Opis karty web 12", "Descrição do cartão web 12", "网页卡片12的描述"],
-        "WEB_TEST1_TEXT_13": ["Description for web card 13", "Описание для веб карты 13", "Beschreibung für Web-Karte 13", "Descripción para tarjeta web 13", "Description pour carte web 13", "Kuvaus web-kortille 13", "Descrizione per carta web 13", "ウェブカード13の説明", "웹 카드 13 설명", "Opis karty web 13", "Descrição do cartão web 13", "网页卡片13的描述"],
-        "WEB_TEST1_TEXT_14": ["Description for web card 14", "Описание для веб карты 14", "Beschreibung für Web-Karte 14", "Descripción para tarjeta web 14", "Description pour carte web 14", "Kuvaus web-kortille 14", "Descrizione per carta web 14", "ウェブカード14の説明", "웹 카드 14 설명", "Opis karty web 14", "Descrição do cartão web 14", "网页卡片14的描述"],
-        "WEB_TEST1_TEXT_15": ["Description for web card 15", "Описание для веб карты 15", "Beschreibung für Web-Karte 15", "Descripción para tarjeta web 15", "Description pour carte web 15", "Kuvaus web-kortille 15", "Descrizione per carta web 15", "ウェブカード15の説明", "웹 카드 15 설명", "Opis karty web 15", "Descrição do cartão web 15", "网页卡片15的描述"]
-    }
+		"ru": {
+			"KEY_TEST1_GROUP": "Группа 1",
+			"KEY_TEST1_TAG": "Тег 1",
+			"KEY_TEST1_DESCRIPTION": "Первая тестовая колода с сайта.\n\nXX карт. 18+",
+			"WEB_TEST1_NAME_01": "Веб Карта 1",
+			"WEB_TEST1_NAME_02": "Веб Карта 2",
+			"WEB_TEST1_NAME_03": "Веб Карта 3",
+			"WEB_TEST1_NAME_04": "Веб Карта 4",
+			"WEB_TEST1_NAME_05": "Веб Карта 5",
+			"WEB_TEST1_NAME_06": "Веб Карта 6",
+			"WEB_TEST1_NAME_07": "Веб Карта 7",
+			"WEB_TEST1_NAME_08": "Веб Карта 8",
+			"WEB_TEST1_NAME_09": "Веб Карта 9",
+			"WEB_TEST1_NAME_10": "Веб Карта 10",
+			"WEB_TEST1_NAME_11": "Веб Карта 11",
+			"WEB_TEST1_NAME_12": "Веб Карта 12",
+			"WEB_TEST1_NAME_13": "Веб Карта 13",
+			"WEB_TEST1_NAME_14": "Веб Карта 14",
+			"WEB_TEST1_NAME_15": "Веб Карта 15",
+			"WEB_TEST1_TEXT_01": "Описание для веб карты 1",
+			"WEB_TEST1_TEXT_02": "Описание для веб карты 2",
+			"WEB_TEST1_TEXT_03": "Описание для веб карты 3",
+			"WEB_TEST1_TEXT_04": "Описание для веб карты 4",
+			"WEB_TEST1_TEXT_05": "Описание для веб карты 5",
+			"WEB_TEST1_TEXT_06": "Описание для веб карты 6",
+			"WEB_TEST1_TEXT_07": "Описание для веб карты 7",
+			"WEB_TEST1_TEXT_08": "Описание для веб карты 8",
+			"WEB_TEST1_TEXT_09": "Описание для веб карты 9",
+			"WEB_TEST1_TEXT_10": "Описание для веб карты 10",
+			"WEB_TEST1_TEXT_11": "Описание для веб карты 11",
+			"WEB_TEST1_TEXT_12": "Описание для веб карты 12",
+			"WEB_TEST1_TEXT_13": "Описание для веб карты 13",
+			"WEB_TEST1_TEXT_14": "Описание для веб карты 14",
+			"WEB_TEST1_TEXT_15": "Описание для веб карты 15"
+		},
+		"en": {
+			
+		},
+		"de": {
+		
+		},
+		"es": {
+			
+		},
+		"fr": {
+			
+		},
+		"fi": {
+			
+		},
+		"it": {
+			
+		},
+		"ja": {
+			
+		},
+		"ko": {
+			
+		},
+		"pl": {
+			
+		},
+		"pt-br": {
+			
+		},
+		"zh-cn": {
+			
+		}
+	}
 }
