@@ -1,5 +1,62 @@
 {
-    "files": [
-	
+    "files": [{
+            "name": "Not_For_Everyone_Bonus.lda",
+            "title": {
+                "ru": "Территория X - Бонус",
+                "en": "X Territory - Bonus",
+                "de": "X-Zone - Bonus",
+                "es": "Territorio X - Bonus",
+                "fr": "Territoire X - Bonus",
+                "fi": "X-alue - Bonus",
+                "it": "Territorio X - Bonus",
+                "ja": "禁断ゾーンX - ボーナス",
+                "ko": "X 영역 - 보너스",
+                "pl": "Strefa X - Bonus",
+                "pt-br": "Território X - Bônus",
+                "zh-cn": "X领域 - 奖励包"
+            },
+            "description": {
+                "ru": "Дополнение к колоде «Территория X».\nКолода для смелых пар, готовых исследовать самые откровенные грани интимности. От интенсивных экспериментов до запретных фантазий, которые многие держат в секрете. Только для тех, кто готов выйти за рамки привычного и открыть новые горизонты наслаждения.\n\n80 карт. 21+",
+                "en": "Expansion for the «X Territory» deck.\nA deck for bold couples ready to explore the most intimate boundaries. From intense experiments to forbidden fantasies that many keep secret. Only for those ready to go beyond the usual and discover new horizons of pleasure.\n\n80 cards. 21+",
+                "de": "Erweiterung zum «X-Zone» Deck.\nEin Deck für mutige Paare, die bereit sind, die intimsten Grenzen zu erkunden. Von intensiven Experimenten bis zu verbotenen Fantasien, die viele geheim halten. Nur für diejenigen, die bereit sind, über das Gewöhnliche hinauszugehen und neue Horizonte der Lust zu entdecken.\n\n80 Karten. 21+",
+                "es": "Expansión para el mazo «Territorio X».\nUn mazo para parejas audaces listas para explorar los límites más íntimos. Desde experimentos intensos hasta fantasías prohibidas que muchos mantienen en secreto. Solo para aquellos listos para ir más allá de lo habitual y descubrir nuevos horizontes de placer.\n\n80 cartas. 21+",
+                "fr": "Extension pour le deck «Territoire X».\nUn deck pour les couples audacieux prêts à explorer les limites les plus intimes. Des expériences intenses aux fantasmes interdits que beaucoup gardent secrets. Seulement pour ceux qui sont prêts à aller au-delà de l'habituel et découvrir de nouveaux horizons de plaisir.\n\n80 cartes. 21+",
+                "fi": "Laajennus «X-alue» -pakkaan.\nPakka rohkeille pareille, jotka ovat valmiita tutkimaan intiimiyden rajoja. Intensiivisistä kokeiluista kiellettyihin fantasioihin, joita monet pitävät salassa. Vain niille, jotka ovat valmiita menemään tavallisen tuolle puolen ja löytämään nautinnon uusia ulottuvuuksia.\n\n80 korttia. 21+",
+                "it": "Espansione per il mazzo «Territorio X».\nUn mazzo per coppie audaci pronte a esplorare i confini più intimi. Da esperimenti intensi a fantasie proibite che molti tengono segrete. Solo per chi è pronto ad andare oltre il solito e scoprire nuovi orizzonti di piacere.\n\n80 carte. 21+",
+                "ja": "「禁断ゾーンX」デッキの拡張パック。\n親密さの最も大胆な側面を探求する勇敢なカップルのためのデッキ。激しい実験から、多くの人が秘密にしている禁断のファンタジーまで。いつもの枠を超えて、快楽の新しい地平を発見する準備ができている人だけのために。\n\n80枚のカード。21歳以上",
+                "ko": "«X 영역» 덱 확장팩.\n친밀함�� 가장 대담한 경계를 탐험할 준비가 된 용감한 커플을 위한 덱. 강렬한 실험부터 많은 사람들이 비밀로 간직하는 금지된 환상까지. 일상을 넘어 쾌락의 새로운 지평을 발견할 준비가 된 사람들만을 위한 것.\n\n카드 80장. 21+",
+                "pl": "Rozszerzenie do talii «Strefa X».\nTalia dla odważnych par gotowych odkrywać najbardziej intymne granice. Od intensywnych eksperymentów po zakazane fantazje, które wielu trzyma w tajemnicy. Tylko dla tych, którzy są gotowi wyjść poza zwyczajne i odkryć nowe horyzonty przyjemności.\n\n80 kart. 21+",
+                "pt-br": "Expansão para o baralho «Território X».\nUm baralho para casais ousados prontos para explorar os limites mais íntimos. De experimentos intensos a fantasias proibidas que muitos mantêm em segredo. Apenas para aqueles prontos para ir além do habitual e descobrir novos horizontes de prazer.\n\n80 cartas. 21+",
+                "zh-cn": "«X领域»牌组扩展包。\n为勇敢的情侣准备的牌组，准备探索最亲密的界限。从激烈的实验到许多人保守的禁忌幻想。只为那些准备超越常规、发现快乐新境界的人。\n\n80张卡片。21+"
+            },
+            "group": {
+                "ru": "Интим",
+                "en": "Intimate",
+                "de": "Intim",
+                "es": "Íntimo",
+                "fr": "Intime",
+                "fi": "Intiimi",
+                "it": "Intimo",
+                "ja": "親密",
+                "ko": "친밀한",
+                "pl": "Intymne",
+                "pt-br": "Íntimo",
+                "zh-cn": "亲密"
+            },
+            "tags": {
+                "ru": ["21+"],
+                "en": ["21+"],
+                "de": ["21+"],
+                "es": ["21+"],
+                "fr": ["21+"],
+                "fi": ["21+"],
+                "it": ["21+"],
+                "ja": ["21+"],
+                "ko": ["21+"],
+                "pl": ["21+"],
+                "pt-br": ["21+"],
+                "zh-cn": ["21+"]
+            }
+        }
     ]
 }
