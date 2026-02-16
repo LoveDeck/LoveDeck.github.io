@@ -4,7 +4,7 @@
 	"tags": [],
 	"cards": [
 		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "1\n〰〰〰〰"},
-		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "2\n\n〰〰〰〰"},
+		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "2\n〰〰〰〰"},
 		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "3\n〰〰〰〰"},
 		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "4\n〰〰〰〰"},
 		{"style": "TUTORIAL_DECK", "group": "03", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "5\n〰〰〰〰"},
@@ -95,7 +95,7 @@
 		{"style": "TUTORIAL_DECK", "group": "05", "text": "KEY_TUTORIAL_DECK_TEXT", "name": "90\n〰〰〰〰"}
     ],
 	"styles": {
-		"TUTORIAL_DECK": {"texture_name": "STANDARD.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 15, "name_size": 70, "text_size": 60, "name_style": "b", "text_style": "", "name_color": "#440F0D", "text_color": "#330b0a", "bg_color": "#fbe5c2"}
+		"TUTORIAL_DECK": {"texture_name": "STANDARD.png", "text_align": "left", "name_align": "center", "before_name": "\n\n\n", "after_name": "\n\n\n", "line_separation": 10, "name_size": 70, "text_size": 50, "name_style": "b", "text_style": "b", "name_color": "#440F0D", "text_color": "#330b0a", "bg_color": "#fbe5c2"}
 	},
     "languages": ["en", "ru", "de", "es", "fr", "fi", "it", "ja", "ko", "pl", "pt-br", "zh-cn"],
     "translations": {
@@ -103,7 +103,7 @@
 			"Tutorial_Deck": "〜〜〜〜 〜〜〜",
 			"KEY_TUTORIAL_DECK": "〜〜〜",
 			"KEY_TUTORIAL_DECK_DESCRIPTION": "〜〜〜〜〜〜〜〜 〜〜〜〜〜〜〜〜〜〜〜 〜〜〜 〜〜〜〜〜. 〜〜 〜〜〜〜〜〜 〜〜〜〜 〜〜 〜〜〜〜〜 〜〜〜〜〜〜 〜〜〜〜〜〜〜. 〜〜〜〜〜〜〜〜〜 〜〜〜〜〜〜〜 〜 〜〜〜〜〜〜〜〜 〜〜〜〜 〜〜〜〜〜 〜〜〜〜〜〜.\n\n〜〜 〜〜〜〜. 〜〜〜",
-			"KEY_TUTORIAL_DECK_TEXT": "〜〜〜〜〜〜〜 〜〜〜〜〜 〜〜.\n〜〜〜 〜.\n〜〜〜〜 〜〜〜〜〜〜〜〜〜〜.",
+			"KEY_TUTORIAL_DECK_TEXT": "〜〜〜〜〜〜〜 〜 〜〜〜〜 〜〜.\n〜〜〜 〜.\n〜〜〜〜 〜〜〜〜 〜〜〜〜〜〜.",
 		},
 		"en": {},
 		"de": {},
