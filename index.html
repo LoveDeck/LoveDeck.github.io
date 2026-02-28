@@ -1,0 +1,97 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Love Deck</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <link rel="shortcut icon" href="images/logo.png" type="image/png">
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <!-- Header -->
+        <header id="header">
+            <div class="inner">
+                <a href="index.html" class="logo">
+                    <span class="symbol"><img src="images/logo.png" alt="" /></span>
+                    <span class="title">Love Decks</span>
+                </a>
+            </div>
+        </header>
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+                <section class="tiles">
+					
+                </section>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <section>
+                    <h2>Follow</h2>
+                    <ul class="icons">
+                        <li><a href="mailto:zbep.apps@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+                        <li><a href="https://discord.gg/JmsBsBzdHV" class="icon brands style2 fa-discord"><span class="label">Discord</span></a></li>
+                        <li><a href="https://t.me/ZBEP_PortHUB" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>
+                    </ul>
+                </section>
+            </div>
+        </footer>
+	</div>
+	
+	<!-- Scripts -->
+	<script>
+	function downloadDeck(filename) {
+		const fullUrl = window.location.origin + window.location.pathname.replace(/[^\/]*$/, '') + 'decks/' + filename;
+		
+		// Находим карточку, на которую кликнули
+		const card = event.currentTarget;
+		
+		// Создаем индикатор копирования
+		const indicator = document.createElement('div');
+		indicator.className = 'copy-indicator';
+		indicator.innerHTML = '<svg viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>';
+		card.appendChild(indicator);
+		
+		navigator.clipboard.writeText(fullUrl).then(() => {
+			// Показываем индикатор
+			setTimeout(() => indicator.classList.add('show'), 10);
+			
+			// Скрываем и удаляем через 1.2 секунды
+			setTimeout(() => {
+				indicator.classList.remove('show');
+				setTimeout(() => card.removeChild(indicator), 300);
+			}, 1200);
+		}).catch(err => {
+			const textArea = document.createElement('textarea');
+			textArea.value = fullUrl;
+			textArea.style.position = 'fixed';
+			textArea.style.opacity = '0';
+			document.body.appendChild(textArea);
+			textArea.select();
+			document.execCommand('copy');
+			document.body.removeChild(textArea);
+			
+			// Показываем индикатор даже при fallback
+			setTimeout(() => indicator.classList.add('show'), 10);
+			setTimeout(() => {
+				indicator.classList.remove('show');
+				setTimeout(() => card.removeChild(indicator), 300);
+			}, 1200);
+		});
+		
+		return false;
+	}
+	</script>
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+</body>
+</html>
